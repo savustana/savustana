@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Car Shop Website
 
-# [Vehicle Store] (https://github.com/savustana/Vehicle_Store)
+# [Vehicle Store](https://github.com/savustana/Vehicle_Store)
 * Description
 
 <p align="center">
