@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 # [Vehicle Store](https://github.com/savustana/Vehicle_Store)
 
-* A website for selling cars
+<b>This Django-based project is a dynamic web application designed to streamline the buying and selling of cars.</b>
+* The platform allows users to browse a diverse collection of vehicles, filter search results by make, model, price, and other criteria, and view detailed listings with high-quality images, specifications, and pricing information.
+*  Sellers can easily post their cars for sale and manage their listings. With a user-friendly interface and responsive design, this website provides a seamless experience for both buyers and sellers.
+*   The back-end is powered by Django with SQL Database.
 
 <p align="center" height="70%" overflow="hidden">
   <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/NewImg.png" alt="Alt Text">
