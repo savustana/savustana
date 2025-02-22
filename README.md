@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 # [Vehicle Store](https://github.com/savustana/Vehicle_Store)
 * Description
 
-<p align="center">
-  <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/NewImg.png" alt="Alt Text" height="70%" overflow="hidden">
+<p align="center" height="70%" overflow="hidden">
+  <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/NewImg.png" alt="Alt Text">
 </p>
