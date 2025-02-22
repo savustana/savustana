@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ## Car Shop Website
 
 # [Vehicle Store](https://github.com/savustana/Vehicle_Store)
-* Description
+
+* A website for selling cars
 
 <p align="center" height="70%" overflow="hidden">
   <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/NewImg.png" alt="Alt Text">
