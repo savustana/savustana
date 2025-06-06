@@ -24,3 +24,20 @@ Here are some ideas to get you started:
 <p align="center" height="70%" overflow="hidden">
   <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/NewImg.png" alt="Alt Text">
 </p>
+
+
+## Funko Pop Website
+
+# [Funko Pop](https://github.com/savustana/FunkoPop)
+
+<b>A Django-based project created as a web application for selling various souvenirs (FunkoPop is used as an example)</b>
+* This website allows users to select and buy souvenirs of all types, search results by any key words, review descriptions, pictures, pricing and other information about the items.
+* Admin accounts can manage all the listings, users and items to ensure smooth experience for the customers.
+* The back-end is powered by Django with SQL Database.
+* The website is also deployed using Cloud Application Platform: Render
+<b>https://funkopop-j6et.onrender.com</b>
+
+<p align="center" height="70%" overflow="hidden">
+  <img src="https://github.com/savustana/savustana/blob/main/1.png" alt="Alt Text">
+  <img src="https://github.com/savustana/savustana/blob/main/2.png" alt="Alt Text">
+</p>
