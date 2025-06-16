@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 *   The back-end is powered by Django with SQL Database.
 
 <p align="center" height="70%" overflow="hidden">
-  <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/Img.png" alt="Alt Text" transform: rotate(270deg)>
+  <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/Img.png" alt="Alt Text" transform: rotate(90deg)>
 </p>
 
 
