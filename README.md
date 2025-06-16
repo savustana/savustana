@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 *   The back-end is powered by Django with SQL Database.
 
 <p align="center" height="70%" overflow="hidden">
-  <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/NewImg.png" alt="Alt Text">
+  <img src="https://github.com/savustana/savustana/blob/main/VehicleStoreImg/Img.png" alt="Alt Text">
 </p>
 
 
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <b>https://funkopop-j6et.onrender.com</b>
 
 <p align="center" height="70%" overflow="hidden">
-  <img src="https://github.com/savustana/savustana/blob/main/1.png" alt="Alt Text">
-  <img src="https://github.com/savustana/savustana/blob/main/2.png" alt="Alt Text">
+  <img src="https://github.com/savustana/savustana/blob/main/FunkoImg/1.png" alt="Alt Text">
+  <img src="https://github.com/savustana/savustana/blob/main/FunkoImg/2.png" alt="Alt Text">
 </p>
