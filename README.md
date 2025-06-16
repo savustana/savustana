@@ -41,3 +41,19 @@ Here are some ideas to get you started:
   <img src="https://github.com/savustana/savustana/blob/main/FunkoImg/1.png" alt="Alt Text">
   <img src="https://github.com/savustana/savustana/blob/main/FunkoImg/2.png" alt="Alt Text">
 </p>
+
+
+## Real Estate API
+
+# [RealEstateAPI](https://github.com/savustana/FastApi_RealEstate)
+
+<b>A backend web application built with FastAPI that provides a RESTful API for managing real estate properties. It allows users to add, retrieve, and display various real estate objects such as apartments, houses, and land plots. The application uses SQLAlchemy as the ORM to interact with a relational database.</b>
+
+* Pydantic models allow for data validation and parsing.
+* Authorized users can add new real estate listings with attributes like title, location, price, property type, size.
+* Unauthorized users have access to retriving listings via structured endpoints. 
+
+<p align="center" height="70%" overflow="hidden">
+  <img src="https://github.com/savustana/savustana/blob/main/RealEstateImg/img1.png" alt="Alt Text">
+  <img src="https://github.com/savustana/savustana/blob/main/RealEstateImg/img2.png" alt="Alt Text">
+</p>
