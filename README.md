@@ -57,3 +57,35 @@ Here are some ideas to get you started:
   <img src="https://github.com/savustana/savustana/blob/main/RealEstateImg/img1.png" alt="Alt Text">
   <img src="https://github.com/savustana/savustana/blob/main/RealEstateImg/img2.png" alt="Alt Text">
 </p>
+
+
+
+## Game Tournaments API
+
+# [GameTournamentsAPI](https://github.com/savustana/FastAPI_GameTour)
+
+<b>A backend web application made with FastAPI, provides a RESTful API for viewing and editing game tournaments. Allows users to add, edit, and display available tournaments, teams, and results. The application uses SQLAlchemy as the ORM for a relational database.</b>
+
+* Pydantic models allow for data validation and parsing.
+* Authorized users can add new tournaments and register teams, post and manage results.
+* Unauthorized users have access to viewing tournaments and results through structured endpoints. 
+
+<p align="center" height="70%" overflow="hidden">
+  <img src="https://github.com/savustana/savustana/blob/main/GameTourImg/1.png" alt="Alt Text">
+  <img src="https://github.com/savustana/savustana/blob/main/GameTourImg/2.png" alt="Alt Text">
+</p>
+
+
+
+## Quote Randomizer
+
+# [QuoteRandomizer](https://github.com/savustana/RandomQuotes)
+
+<b>A simple web application built with Flask for displaying random quotes from the database.</b>
+
+* SQLite3 databese is used to add, edit, and delete quotes.
+* Web application allows for simple and user friendly interaction.
+
+<p align="center" height="70%" overflow="hidden">
+  <img src="https://github.com/savustana/savustana/blob/main/QuotesImg/img.png" alt="Alt Text">
+</p>
